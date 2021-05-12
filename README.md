@@ -1,6 +1,6 @@
 # Real-world problems using DataCamp
 
-[<img src="datacamp.png" width="20px"/>]
+<img src="datacamp.png"/>
 (https://learn.datacamp.com/)
 
 In this folder I will share my projects which I have completed during my Data Scientist with Python career track on Datacamp (https://www.datacamp.com/tracks/data-scientist-with-python). 
