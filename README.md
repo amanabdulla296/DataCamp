@@ -1,6 +1,6 @@
 # Real-world problems using DataCamp
 
-[<img align="center" width="50px" src="datacamp.png">](https://www.datacamp.com/)
+[<img align="center" width="500px" src="datacamp.png">](https://www.datacamp.com/)
 
 
 
