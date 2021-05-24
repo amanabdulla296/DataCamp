@@ -1,6 +1,6 @@
 # The Programming Language - Scala
 
-<img src="04_the_github_history_of _the _Scala _language/scala_icon.png"/>)
+<img src="04_the_github_history_of _the _Scala _language/scala_icon.png" />
 With almost 30k commits and a history spanning over ten years, Scala is a mature programming language. It is a general-purpose programming language that has recently become another prominent language for data scientists.
 
 Scala is also an open source project. Open source projects have the advantage that their entire development histories -- who made changes, what was changed, code reviews, etc. -- are publicly available.
